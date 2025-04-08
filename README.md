@@ -3,11 +3,11 @@
 ## 🚀 Sobre mim
 Olá ✌️
 
-Bem vindo ao meu perfil! 🥳
+Bem vindo ao meu perfil! 👾
 
-Eu sou DeViruZ,
+Eu sou Virus-Z,
 
-Estou atualmente cursando *Ciencia da Computação* 📚💻...
+Estou atualmente cursando _*Ciencia da Computação*_ 📚💻...
 
 E em paralelo fazendo alguns cursos sobre Cloud, Redes e App 🚀🎓
 
