@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Virus-Z/Virus-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Olá ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem vindo ao meu perfil! 🥳
+
+Eu sou DeViruZ,
+
+Estou atualmente cursando *Ciencia da Computação* 📚💻...
+
+E em paralelo fazendo alguns cursos sobre Cloud, Redes e App 🚀🎓
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virus-Z&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Virus-Z&layout=compact&langs_count=7&theme=dark)
+
+## 🛠 Habilidades
+C#, Python, Java, SQL, HTML, CSS, Automações...
+
+## Conecte-se Comigo 🎈
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winii/)
