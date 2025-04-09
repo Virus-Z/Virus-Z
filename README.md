@@ -280,8 +280,7 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
   <img src="https://github-readme-stats.vercel.app/api?username=Virus-Z&show_icons=true&theme=tokyonight" alt="GitHub Stats of Virus-Z">
   
   <h3>GitHub Streak</h3>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Virus-Z&theme=tokyonight"
-    alt="Virus-Z"
-  >
+### 📌 Projetos em Destaque
+
+[![libras_translator](https://github-readme-stats.vercel.app/api/pin/?username=Virus-Z&repo=libras_translator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Virus-Z/libras_translator)
 </div>
