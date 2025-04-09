@@ -279,8 +279,13 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
   <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Virus-Z&show_icons=true&theme=tokyonight" alt="GitHub Stats of Virus-Z">
   
-  <h3>GitHub Streak</h3>
-### 📌 Projetos em Destaque
+###
 
-[![libras_translator](https://github-readme-stats.vercel.app/api/pin/?username=Virus-Z&repo=libras_translator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Virus-Z/Exc.py)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virus-Z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Virus-Z&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Virus-Z&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 </div>
