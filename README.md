@@ -282,5 +282,5 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
   <h3>GitHub Streak</h3>
 ### 📌 Projetos em Destaque
 
-[![libras_translator](https://github-readme-stats.vercel.app/api/pin/?username=Virus-Z&repo=libras_translator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Virus-Z/libras_translator)
+[![libras_translator](https://github-readme-stats.vercel.app/api/pin/?username=Virus-Z&repo=libras_translator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Virus-Z/Exc.py)
 </div>
