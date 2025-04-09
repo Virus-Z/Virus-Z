@@ -20,7 +20,7 @@ export default {
   hobbies: ['Musica', 'Cinema', 'Sk8', 'Games', 'Documentarios'],
   email: ['ge.desenvol@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/winii/',
-  curriculum:, 'https://resume.io/r/,
+  curriculum: 'https://resume.io/r/',
   portfolio: 'https://portfolio-winicius-pires.vercel.app',
   contato: '(11) 92090-4621',
   description: {
