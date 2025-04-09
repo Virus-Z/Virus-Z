@@ -20,8 +20,8 @@ export default {
   hobbies: ['Musica', 'Cinema', 'Sk8', 'Games', 'Documentarios'],
   email: ['ge.desenvol@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/winii/',
-  /*curriculum:, 'https://resume.io/r/5XOjVWyDz',*/
-  /*portfolio: 'https://portfolio-andre-horman.vercel.app',*/
+  curriculum:, 'https://resume.io/r/,
+  portfolio: 'https://portfolio-winicius-pires.vercel.app',
   contato: '(11) 92090-4621',
   description: {
     myProfile: `Sou um desenvolvedor apaixonado por tecnologia e otimização de processos, com experiência em liderança de equipes e gerenciamento de sistemas empresariais. 
