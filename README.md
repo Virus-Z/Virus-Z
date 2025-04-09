@@ -92,7 +92,7 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
       />
     </a>
     <a
-      href="https://wa.me/11920904621"
+      href="https://wa.me/+5511920904621"
       target="_blank"
     >
       <img
