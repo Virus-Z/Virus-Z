@@ -15,7 +15,7 @@
 ```javascript
 export default {
   name: 'Winicius Pires',
-  from: 'Londrina, Pr, Brasil',
+  from: 'Londrina-Pr, Brasil',
   profession: 'Desenvolvedor Full Stack',
   hobbies: ['Musica', 'Cinema', 'Sk8', 'Games', 'Documentarios'],
   email: ['ge.desenvol@gmail.com'],
