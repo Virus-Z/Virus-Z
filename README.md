@@ -40,7 +40,7 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
       'HTML5', 'CSS3', 'Javascript', 'React', 'Next' , 'APIs' , 'Hooks',
     ],
     tools: [
-      'Git', 'Github', 'Proxmox' , 'Aapanel', 'Doker' , 'PfSence' , 'TailScale' , 'NPM' , 'N8N'
+      'Git', 'Github', 'Proxmox' , 'Aapanel', 'Doker' , 'PfSense' , 'TailScale' , 'NPM' , 'N8N'
     ],
     designTools: [
       'Illustrator', 'Photoshop',
@@ -262,6 +262,24 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
             alt="after effects"
          />
       </a>
+      <a href="" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Proxmox-000?style=for-the-badge&logo=proxmox"
+           alt="proxmox"
+         />
+      </a>
+      <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
+        <img
+           src="https://img.shields.io/badge/PfSense-000?style=for-the-badge&logo=pfsense"
+           alt="pfsense"
+         />
+      </a> 
+      <a href="" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Aapanel-339933?style=for-the-badge&logo=aapanel"
+           alt="Aapanel"
+         />
+      </a>    
     </p>
   </div>
 </section>
