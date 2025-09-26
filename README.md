@@ -37,11 +37,10 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
       'Node.js','MySQL', 'MongoDB',
     ],
     frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'React', 'Next', 'Context API',
-      'Hooks',
+      'HTML5', 'CSS3', 'Javascript', 'React', 'Next' , 'APIs' , 'Hooks',
     ],
     tools: [
-      'Git', 'Github', 'Proxmox' , 'Aapanel', 'Doker' , 'PfSence' , 'TailScale' , 'NPM'
+      'Git', 'Github', 'Proxmox' , 'Aapanel', 'Doker' , 'PfSence' , 'TailScale' , 'NPM' , 'N8N'
     ],
     designTools: [
       'Illustrator', 'Photoshop',
