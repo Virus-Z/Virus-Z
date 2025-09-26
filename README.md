@@ -41,7 +41,7 @@ Ao longo da minha trajetória, atuei em projetos voltados para a criação e imp
       'Hooks',
     ],
     tools: [
-      'Git', 'Github',
+      'Git', 'Github', 'Proxmox' , 'Aapanel', 'Doker' , 'PfSence' , 'TailScale' , 'NPM'
     ],
     designTools: [
       'Illustrator', 'Photoshop',
